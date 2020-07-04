@@ -13,7 +13,7 @@ h1 {
 	float: left;
 	background-color: #00ffff;
 	width: 100%;
-	height: 150px;
+	height: 175px;
 	border: 1px solid black;
 	margin-right: 10px;
 	padding: 2px;
@@ -24,7 +24,7 @@ h1 {
 	float: left;
 	background-color: #ffbf00;
 	width: 100%;
-	height: 150px;
+	height: 175px;
 	border: 1px solid black;
 	padding: 2px;
 	overflow: scroll;
@@ -36,7 +36,7 @@ h1 {
 	float: right;
 	background-color: #00bfff;
 	width: 100%;
-	height: 150px;
+	height: 175px;
 	border: 1px solid black;
 	padding: 2px;
 	overflow: scroll;
@@ -49,10 +49,9 @@ h1 {
 	background-color: red;
 	border: 1.5px black;
 	position: relative;
-	bottom: 15px;
+	bottom:  10px;
 	float: right;
 	padding: 10px;
-	overflow: scroll;
 
 }
 #p5 {
@@ -61,10 +60,9 @@ h1 {
 	background-color: red;
 	border: 1.5px black;
 	position: relative;
-	bottom: 15px;
+	bottom: 10px;
 	float: right;
 	padding: 10px;
-	overflow: scroll;
 }
 #p6 {
 	width: 100px;
@@ -72,10 +70,9 @@ h1 {
 	background-color: red;
 	border: 1.5px black;
 	position: relative;
-	bottom: 15px;
+	bottom:  10px;
 	float: right;
 	padding: 10px;
-	overflow: scroll;
 }
 
 .sub {
