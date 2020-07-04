@@ -45,7 +45,7 @@ h1 {
 
 #p4{
 	width: 100px;
-	height: 20px;
+	height: 25px;
 	background-color: red;
 	border: 1.5px black;
 	position: relative;
@@ -56,7 +56,7 @@ h1 {
 }
 #p5 {
 	width: 100px;
-	height: 20px;
+	height: 25px;
 	background-color: red;
 	border: 1.5px black;
 	position: relative;
@@ -66,7 +66,7 @@ h1 {
 }
 #p6 {
 	width: 100px;
-	height: 20px;
+	height: 25px;
 	background-color: red;
 	border: 1.5px black;
 	position: relative;
