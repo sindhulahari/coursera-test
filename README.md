@@ -17,6 +17,7 @@ h1 {
 	border: 1px solid black;
 	margin-right: 10px;
 	padding: 2px;
+	overflow: scroll;
 
 }
 .p2 {
@@ -26,6 +27,7 @@ h1 {
 	height: 150px;
 	border: 1px solid black;
 	padding: 2px;
+	overflow: scroll;
 
 	
 
@@ -37,6 +39,7 @@ h1 {
 	height: 150px;
 	border: 1px solid black;
 	padding: 2px;
+	overflow: scroll;
 
 }
 
@@ -49,6 +52,7 @@ h1 {
 	bottom: 15px;
 	float: right;
 	padding: 10px;
+	overflow: scroll;
 
 }
 #p5 {
@@ -60,6 +64,7 @@ h1 {
 	bottom: 15px;
 	float: right;
 	padding: 10px;
+	overflow: scroll;
 }
 #p6 {
 	width: 100px;
@@ -70,6 +75,7 @@ h1 {
 	bottom: 15px;
 	float: right;
 	padding: 10px;
+	overflow: scroll;
 }
 
 .sub {
@@ -109,17 +115,17 @@ h1 {
 	<h1>Our Menu</h1>
 <div class="p1">
 	<p id="p4">chicken  
-     <div class="sub">Food is the basic human need to stay alive. Moreover, it is the need of every living organism. Therefore it is important that we should not waste food. Our world consists of different types of cultures. </div>
+     <div class="sub">Food is the basic human need to stay alive. Moreover, it is the need of every living organism. Therefore it is important that we should not waste food. Our world consists of different types of cultures.These cultures have varieties of dishes of food in them. </div>
     </p>
 </div>
 <div class="p2">
 	<p id="p5">beef 
-     <div class="sub">Food is the basic human need to stay alive. Moreover, it is the need of every living organism. Therefore it is important that we should not waste food. Our world consists of different types of cultures.</div>
+     <div class="sub">Food is the basic human need to stay alive. Moreover, it is the need of every living organism. Therefore it is important that we should not waste food. Our world consists of different types of cultures.These cultures have varieties of dishes of food in them.</div>
     </p>
 </div>
 <div class="p3">
 	<p id="p6">sushi  
-     <div class="sub">Food is the basic human need to stay alive. Moreover, it is the need of every living organism. Therefore it is important that we should not waste food. Our world consists of different types of cultures.</div>
+     <div class="sub">Food is the basic human need to stay alive. Moreover, it is the need of every living organism. Therefore it is important that we should not waste food. Our world consists of different types of cultures.These cultures have varieties of dishes of food in them.</div>
     </p>
 
 </div>
