@@ -1,37 +1,127 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<title>assignment</title>
+</head>
+<style type="text/css">
+h1 {
+	text-align: center;
+	margin-bottom: 50px
+}	
 
-You can use the [editor on GitHub](https://github.com/sindhulahari/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+.p1 {
+	float: left;
+	background-color: #00ffff;
+	width: 100%;
+	height: 150px;
+	border: 1px solid black;
+	margin-right: 10px;
+	padding: 2px;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+}
+.p2 {
+	float: left;
+	background-color: #ffbf00;
+	width: 100%;
+	height: 150px;
+	border: 1px solid black;
+	padding: 2px;
 
-### Markdown
+	
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+}
+.p3 {
+	float: right;
+	background-color: #00bfff;
+	width: 100%;
+	height: 150px;
+	border: 1px solid black;
+	padding: 2px;
 
-```markdown
-Syntax highlighted code block
+}
 
-# Header 1
-## Header 2
-### Header 3
+#p4{
+	width: 100px;
+	height: 20px;
+	background-color: red;
+	border: 1.5px black;
+	position: relative;
+	bottom: 15px;
+	float: right;
+	padding: 10px;
 
-- Bulleted
-- List
+}
+#p5 {
+	width: 100px;
+	height: 20px;
+	background-color: red;
+	border: 1.5px black;
+	position: relative;
+	bottom: 15px;
+	float: right;
+	padding: 10px;
+}
+#p6 {
+	width: 100px;
+	height: 20px;
+	background-color: red;
+	border: 1.5px black;
+	position: relative;
+	bottom: 15px;
+	float: right;
+	padding: 10px;
+}
 
-1. Numbered
-2. List
+.sub {
+	position: relative;
+	top: 50px;
+}
 
-**Bold** and _Italic_ and `Code` text
+@media (min-width: 992px){
+	.p1{
+		width: 31%;
+	}
+	.p2{
+		width: 32%;
+	}
+	.p3{
+		width: 33%;
+	}
+}
 
-[Link](url) and ![Image](src)
-```
+@media (max-width: 991px) and (min-width: 768px){
+	.p1{
+		width: 48%;
+	}
+	.p2{
+		width: 48%;
+	}
+	.p3{
+		width: 100%;
+	}
+}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+</style>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sindhulahari/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<body>
+	<h1>Our Menu</h1>
+<div class="p1">
+	<p id="p4">chicken  
+     <div class="sub">Food is the basic human need to stay alive. Moreover, it is the need of every living organism. Therefore it is important that we should not waste food. Our world consists of different types of cultures. </div>
+    </p>
+</div>
+<div class="p2">
+	<p id="p5">beef 
+     <div class="sub">Food is the basic human need to stay alive. Moreover, it is the need of every living organism. Therefore it is important that we should not waste food. Our world consists of different types of cultures.</div>
+    </p>
+</div>
+<div class="p3">
+	<p id="p6">sushi  
+     <div class="sub">Food is the basic human need to stay alive. Moreover, it is the need of every living organism. Therefore it is important that we should not waste food. Our world consists of different types of cultures.</div>
+    </p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
+</body>
+</html>
