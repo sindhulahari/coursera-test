@@ -9,14 +9,7 @@ body{
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
-.jumbotron{
-	background-image: url(images/menu2/front/jumbotron768.jpg);
-		height: 432px;
-		background-repeat: no-repeat;
-		background-size: cover; 
-		background-position: center;
-		margin-top: 10px;
-}
+
 
 
 @media (min-width: 1200px){
