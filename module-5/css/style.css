@@ -10,7 +10,7 @@ body{
   text-decoration: none;
 }
 .jumbotron{
-	background-image: url(images/jumbotron768.jpg);
+	background-image: url(images/jumbotron.jpg);
 		height: 432px;
 		background-repeat: no-repeat;
 		background-size: cover; 
