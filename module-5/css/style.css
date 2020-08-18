@@ -10,7 +10,7 @@ body{
   text-decoration: none;
 }
 .jumbotron{
-	background-image: url(images/jumbotron768.jpg);
+	background-image: url(images/menu2/front/jumbotron768.jpg);
 		height: 432px;
 		background-repeat: no-repeat;
 		background-size: cover; 
@@ -21,7 +21,7 @@ body{
 
 @media (min-width: 1200px){
 	.jumbotron{
-		background-image: url(images/jumbotron.jpg);
+		background-image: url(images/menu2/front/jumbotron.jpg);
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
@@ -30,7 +30,7 @@ body{
 }
 @media (max-width: 1199px) and (min-width: 992px){
 	.jumbotron{
-		background-image: url(images/jumbotron992.jpg);
+		background-image: url(images/menu2/front/jumbotron992.jpg);
 		height: 558px;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -39,7 +39,7 @@ body{
 }
 @media (max-width: 991px) and (min-width: 768px){
 	.jumbotron{
-		background-image: url(images/jumbotron768.jpg);
+		background-image: url(images/menu2/front/jumbotron768.jpg);
 		height: 432px;
 		background-repeat: no-repeat;
 		background-size: cover;
